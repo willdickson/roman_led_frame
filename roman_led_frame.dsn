@@ -1,0 +1,455 @@
+(pcb /home/wbd/work/pcb_designs/roman_led_frame/roman_led_frame.dsn
+  (parser
+    (string_quote ")
+    (space_in_quoted_tokens on)
+    (host_cad "KiCad's Pcbnew")
+    (host_version "5.1.2-f72e74a~84~ubuntu16.04.1")
+  )
+  (resolution um 10)
+  (unit um)
+  (structure
+    (layer F.Cu
+      (type signal)
+      (property
+        (index 0)
+      )
+    )
+    (layer B.Cu
+      (type signal)
+      (property
+        (index 1)
+      )
+    )
+    (boundary
+      (path pcb 0  349195 -50019.2  349383 -50076.1  349556 -50168.5  349707 -50292.9
+            349831 -50444.4  349924 -50617.3  349981 -50804.9  350000 -51000
+            350000 -309000  349981 -309195  349924 -309383  349831 -309556
+            349707 -309707  349556 -309831  349383 -309924  349195 -309981
+            349000 -310000  51000 -310000  50804.9 -309981  50617.3 -309924
+            50444.4 -309831  50292.9 -309707  50168.5 -309556  50076.1 -309383
+            50019.2 -309195  50000 -309000  50000 -51000  50019.2 -50804.9
+            50076.1 -50617.3  50168.5 -50444.4  50292.9 -50292.9  50444.4 -50168.5
+            50617.3 -50076.1  50804.9 -50019.2  51000 -50000  349000 -50000
+            349195 -50019.2)
+    )
+    (keepout "" (polygon signal 0  86000 -85000  85804.9 -85019.2  85617.3 -85076.1  85444.4 -85168.5
+            85292.9 -85292.9  85168.5 -85444.4  85076.1 -85617.3  85019.2 -85804.9
+            85000 -86000  85000 -274000  85019.2 -274195  85076.1 -274383
+            85168.5 -274556  85292.9 -274707  85444.4 -274831  85617.3 -274924
+            85804.9 -274981  86000 -275000  314000 -275000  314195 -274981
+            314383 -274924  314556 -274831  314707 -274707  314831 -274556
+            314924 -274383  314981 -274195  315000 -274000  315000 -86000
+            314981 -85804.9  314924 -85617.3  314831 -85444.4  314707 -85292.9
+            314556 -85168.5  314383 -85076.1  314195 -85019.2  314000 -85000
+            86000 -85000))
+    (via "Via[0-1]_800:400_um")
+    (rule
+      (width 350)
+      (clearance 200.1)
+      (clearance 200.1 (type default_smd))
+      (clearance 50 (type smd_smd))
+    )
+  )
+  (placement
+    (component BLOCK_CONN_2:BLOCK_CONN_2X1
+      (place J37 340000 -256000 front 270 (PN Screw_Terminal_01x02))
+      (place J38 340000 -237000 front 270 (PN Screw_Terminal_01x02))
+      (place J39 340000 -218000 front 270 (PN Screw_Terminal_01x02))
+      (place J40 340000 -199000 front 270 (PN Screw_Terminal_01x02))
+      (place J41 340000 -180000 front 270 (PN Screw_Terminal_01x02))
+      (place J42 340000 -161000 front 270 (PN Screw_Terminal_01x02))
+      (place J43 340000 -142000 front 270 (PN Screw_Terminal_01x02))
+      (place J44 340000 -123000 front 270 (PN Screw_Terminal_01x02))
+      (place J45 340000 -104000 front 270 (PN Screw_Terminal_01x02))
+      (place J19 60000 -104000 front 270 (PN Screw_Terminal_01x02))
+      (place J20 60000 -123000 front 270 (PN Screw_Terminal_01x02))
+      (place J21 60000 -142000 front 270 (PN Screw_Terminal_01x02))
+      (place J22 60000 -161000 front 270 (PN Screw_Terminal_01x02))
+      (place J23 60000 -180000 front 270 (PN Screw_Terminal_01x02))
+      (place J24 60000 -199000 front 270 (PN Screw_Terminal_01x02))
+      (place J25 60000 -218000 front 270 (PN Screw_Terminal_01x02))
+      (place J26 60000 -237000 front 270 (PN Screw_Terminal_01x02))
+      (place J27 60000 -256000 front 270 (PN Screw_Terminal_01x02))
+      (place J28 108000 -300000 front 0 (PN Screw_Terminal_01x02))
+      (place J29 131000 -300000 front 0 (PN Screw_Terminal_01x02))
+      (place J30 154000 -300000 front 0 (PN Screw_Terminal_01x02))
+      (place J31 177000 -300000 front 0 (PN Screw_Terminal_01x02))
+      (place J32 200000 -300000 front 0 (PN Screw_Terminal_01x02))
+      (place J33 223000 -300000 front 0 (PN Screw_Terminal_01x02))
+      (place J34 246000 -300000 front 0 (PN Screw_Terminal_01x02))
+      (place J35 269000 -300000 front 0 (PN Screw_Terminal_01x02))
+      (place J36 292000 -300000 front 0 (PN Screw_Terminal_01x02))
+      (place J46 292000 -72000 front 0 (PN Screw_Terminal_01x02))
+      (place J47 269000 -72000 front 0 (PN Screw_Terminal_01x02))
+      (place J48 246000 -72000 front 0 (PN Screw_Terminal_01x02))
+      (place J49 223000 -72000 front 0 (PN Screw_Terminal_01x02))
+      (place J50 200000 -72000 front 0 (PN Screw_Terminal_01x02))
+      (place J51 177000 -72000 front 0 (PN Screw_Terminal_01x02))
+      (place J52 154000 -72000 front 0 (PN Screw_Terminal_01x02))
+      (place J53 131000 -72000 front 0 (PN Screw_Terminal_01x02))
+      (place J54 108000 -72000 front 0 (PN Screw_Terminal_01x02))
+    )
+    (component mount_holes_custom:quarter_twenty
+      (place M3 339500 -284740 front 0 (PN quarter_twenty))
+      (place M2 339500 -75260 front 0 (PN quarter_twenty))
+      (place M4 60500 -284740 front 0 (PN quarter_twenty))
+      (place M1 60500 -75260 front 0 (PN quarter_twenty))
+    )
+    (component MOLEX:0705430003
+      (place J1 89500 -56000 front 180 (PN Conn_01x04))
+      (place J3 115500 -56000 front 180 (PN Conn_01x04))
+      (place J6 154500 -56000 front 180 (PN Conn_01x04))
+      (place J8 180500 -56000 front 180 (PN Conn_01x04))
+      (place J10 206500 -56000 front 180 (PN Conn_01x04))
+      (place J13 245500 -56000 front 180 (PN Conn_01x04))
+      (place J14 258500 -56000 front 180 (PN Conn_01x04))
+      (place J16 284500 -56000 front 180 (PN Conn_01x04))
+    )
+    (component MOLEX:0705430003::1
+      (place J2 102500 -56000 front 180 (PN Conn_01x04))
+      (place J4 128500 -56000 front 180 (PN Conn_01x04))
+      (place J5 141500 -56000 front 180 (PN Conn_01x04))
+      (place J7 167500 -56000 front 180 (PN Conn_01x04))
+      (place J9 193500 -56000 front 180 (PN Conn_01x04))
+      (place J11 219500 -56000 front 180 (PN Conn_01x04))
+      (place J12 232500 -56000 front 180 (PN Conn_01x04))
+      (place J15 271500 -56000 front 180 (PN Conn_01x04))
+      (place J17 297500 -56000 front 180 (PN Conn_01x04))
+      (place J18 310500 -56000 front 180 (PN Conn_01x04))
+    )
+  )
+  (library
+    (image BLOCK_CONN_2:BLOCK_CONN_2X1
+      (outline (path signal 381  4064 3429  -4064 3429))
+      (outline (path signal 381  4064 -3429  4064 3429))
+      (outline (path signal 381  -4064 -3429  4064 -3429))
+      (outline (path signal 381  -4064 3429  -4064 -3429))
+      (pin Round[A]Pad_1800_um 2 1750.06 0)
+      (pin Rect[A]Pad_1800x1800_um 1 -1750.06 0)
+    )
+    (image mount_holes_custom:quarter_twenty
+      (outline (path signal 254  4762.5 0  4681.41 -875.107  4440.9 -1720.41  4049.16 -2507.13
+            3519.53 -3208.48  2870.05 -3800.56  2122.83 -4263.22  1303.32 -4580.69
+            439.428 -4742.18  -439.428 -4742.18  -1303.32 -4580.69  -2122.83 -4263.22
+            -2870.05 -3800.56  -3519.53 -3208.48  -4049.16 -2507.13  -4440.9 -1720.41
+            -4681.41 -875.107  -4762.5 0  -4681.41 875.107  -4440.9 1720.41
+            -4049.16 2507.13  -3519.53 3208.48  -2870.05 3800.56  -2122.83 4263.22
+            -1303.32 4580.69  -439.428 4742.18  439.428 4742.18  1303.32 4580.69
+            2122.83 4263.22  2870.05 3800.56  3519.53 3208.48  4049.16 2507.13
+            4440.9 1720.41  4681.41 875.107  4762.5 0))
+      (outline (path signal 254  7924.8 0  7844.14 -1127.82  7603.79 -2232.67  7208.65 -3292.08
+            6666.77 -4284.47  5989.16 -5189.64  5189.64 -5989.16  4284.47 -6666.77
+            3292.08 -7208.65  2232.67 -7603.79  1127.82 -7844.14  0 -7924.8
+            -1127.82 -7844.14  -2232.67 -7603.79  -3292.08 -7208.65  -4284.47 -6666.77
+            -5189.64 -5989.16  -5989.16 -5189.64  -6666.77 -4284.47  -7208.65 -3292.08
+            -7603.79 -2232.67  -7844.14 -1127.82  -7924.8 0  -7844.14 1127.82
+            -7603.79 2232.67  -7208.65 3292.08  -6666.77 4284.47  -5989.16 5189.64
+            -5189.64 5989.16  -4284.47 6666.77  -3292.08 7208.65  -2232.67 7603.79
+            -1127.82 7844.14  0 7924.8  1127.82 7844.14  2232.67 7603.79
+            3292.08 7208.65  4284.47 6666.77  5189.64 5989.16  5989.16 5189.64
+            6666.77 4284.47  7208.65 3292.08  7603.79 2232.67  7844.14 1127.82
+            7924.8 0))
+      (pin Round[A]Pad_8026.4_um @1 0 0)
+    )
+    (image MOLEX:0705430003
+      (outline (path signal 254  -6350 2540  -6350 -2540))
+      (outline (path signal 254  -6350 -2540  6350 -2540))
+      (outline (path signal 254  6350 -2540  6350 2540))
+      (outline (path signal 254  6350 2540  -6350 2540))
+      (outline (path signal 254  -3810 -2540  -3810 -4064))
+      (outline (path signal 254  -3810 -4064  3810 -4064))
+      (outline (path signal 254  3810 -4064  3810 -2540))
+      (outline (path signal 254  -3810 3175  -4445 3810))
+      (outline (path signal 254  -4445 3810  -3175 3810))
+      (outline (path signal 254  -3175 3810  -3810 3175))
+      (pin Rect[A]Pad_2032x2032_um 1 -3810 0)
+      (pin Round[A]Pad_2032_um 2 -1270 0)
+      (pin Round[A]Pad_2032_um 3 1270 0)
+      (pin Round[A]Pad_2032_um 4 3810 0)
+    )
+    (image MOLEX:0705430003::1
+      (outline (path signal 254  -3175 3810  -3810 3175))
+      (outline (path signal 254  -4445 3810  -3175 3810))
+      (outline (path signal 254  -3810 3175  -4445 3810))
+      (outline (path signal 254  3810 -4064  3810 -2540))
+      (outline (path signal 254  -3810 -4064  3810 -4064))
+      (outline (path signal 254  -3810 -2540  -3810 -4064))
+      (outline (path signal 254  6350 2540  -6350 2540))
+      (outline (path signal 254  6350 -2540  6350 2540))
+      (outline (path signal 254  -6350 -2540  6350 -2540))
+      (outline (path signal 254  -6350 2540  -6350 -2540))
+      (pin Round[A]Pad_2032_um 4 3810 0)
+      (pin Round[A]Pad_2032_um 3 1270 0)
+      (pin Round[A]Pad_2032_um 2 -1270 0)
+      (pin Rect[A]Pad_2032x2032_um 1 -3810 0)
+    )
+    (padstack Round[A]Pad_1800_um
+      (shape (circle F.Cu 1800))
+      (shape (circle B.Cu 1800))
+      (attach off)
+    )
+    (padstack Round[A]Pad_2032_um
+      (shape (circle F.Cu 2032))
+      (shape (circle B.Cu 2032))
+      (attach off)
+    )
+    (padstack Round[A]Pad_8026.4_um
+      (shape (circle F.Cu 8026.4))
+      (shape (circle B.Cu 8026.4))
+      (attach off)
+    )
+    (padstack Rect[A]Pad_2032x2032_um
+      (shape (rect F.Cu -1016 -1016 1016 1016))
+      (shape (rect B.Cu -1016 -1016 1016 1016))
+      (attach off)
+    )
+    (padstack Rect[A]Pad_1800x1800_um
+      (shape (rect F.Cu -900 -900 900 900))
+      (shape (rect B.Cu -900 -900 900 900))
+      (attach off)
+    )
+    (padstack "Via[0-1]_800:400_um"
+      (shape (circle F.Cu 800))
+      (shape (circle B.Cu 800))
+      (attach off)
+    )
+  )
+  (network
+    (net "/LED1-"
+      (pins J19-1 J1-1)
+    )
+    (net /LED1+
+      (pins J19-2 J1-2)
+    )
+    (net "/LED2-"
+      (pins J20-1 J1-3)
+    )
+    (net /LED2+
+      (pins J20-2 J1-4)
+    )
+    (net /LED4+
+      (pins J22-2 J2-4)
+    )
+    (net "/LED4-"
+      (pins J22-1 J2-3)
+    )
+    (net /LED3+
+      (pins J21-2 J2-2)
+    )
+    (net "/LED3-"
+      (pins J21-1 J2-1)
+    )
+    (net "/LED5-"
+      (pins J23-1 J3-1)
+    )
+    (net /LED5+
+      (pins J23-2 J3-2)
+    )
+    (net "/LED6-"
+      (pins J24-1 J3-3)
+    )
+    (net /LED6+
+      (pins J24-2 J3-4)
+    )
+    (net /LED8+
+      (pins J26-2 J4-4)
+    )
+    (net "/LED8-"
+      (pins J26-1 J4-3)
+    )
+    (net /LED7+
+      (pins J25-2 J4-2)
+    )
+    (net "/LED7-"
+      (pins J25-1 J4-1)
+    )
+    (net /LED10+
+      (pins J28-2 J5-4)
+    )
+    (net "/LED10-"
+      (pins J28-1 J5-3)
+    )
+    (net /LED9+
+      (pins J27-2 J5-2)
+    )
+    (net "/LED9-"
+      (pins J27-1 J5-1)
+    )
+    (net "/LED11-"
+      (pins J29-1 J6-1)
+    )
+    (net /LED11+
+      (pins J29-2 J6-2)
+    )
+    (net "/LED12-"
+      (pins J30-1 J6-3)
+    )
+    (net /LED12+
+      (pins J30-2 J6-4)
+    )
+    (net /LED14+
+      (pins J32-2 J7-4)
+    )
+    (net "/LED14-"
+      (pins J32-1 J7-3)
+    )
+    (net /LED13+
+      (pins J31-2 J7-2)
+    )
+    (net "/LED13-"
+      (pins J31-1 J7-1)
+    )
+    (net "/LED15-"
+      (pins J33-1 J8-1)
+    )
+    (net /LED15+
+      (pins J33-2 J8-2)
+    )
+    (net "/LED16-"
+      (pins J34-1 J8-3)
+    )
+    (net /LED16+
+      (pins J34-2 J8-4)
+    )
+    (net /LED18+
+      (pins J36-2 J9-4)
+    )
+    (net "/LED18-"
+      (pins J36-1 J9-3)
+    )
+    (net /LED17+
+      (pins J35-2 J9-2)
+    )
+    (net "/LED17-"
+      (pins J35-1 J9-1)
+    )
+    (net "/LED19-"
+      (pins J37-1 J10-1)
+    )
+    (net /LED19+
+      (pins J37-2 J10-2)
+    )
+    (net "/LED20-"
+      (pins J38-1 J10-3)
+    )
+    (net /LED20+
+      (pins J38-2 J10-4)
+    )
+    (net /LED22+
+      (pins J40-2 J11-4)
+    )
+    (net "/LED22-"
+      (pins J40-1 J11-3)
+    )
+    (net /LED21+
+      (pins J39-2 J11-2)
+    )
+    (net "/LED21-"
+      (pins J39-1 J11-1)
+    )
+    (net /LED24+
+      (pins J42-2 J12-4)
+    )
+    (net "/LED24-"
+      (pins J42-1 J12-3)
+    )
+    (net /LED23+
+      (pins J41-2 J12-2)
+    )
+    (net "/LED23-"
+      (pins J41-1 J12-1)
+    )
+    (net /LED26+
+      (pins J44-2 J13-1)
+    )
+    (net "/LED26-"
+      (pins J44-1 J13-2)
+    )
+    (net /LED25+
+      (pins J43-2 J13-3)
+    )
+    (net "/LED25-"
+      (pins J43-1 J13-4)
+    )
+    (net "/LED27-"
+      (pins J45-1 J14-1)
+    )
+    (net /LED27+
+      (pins J45-2 J14-2)
+    )
+    (net "/LED28-"
+      (pins J46-1 J14-3)
+    )
+    (net /LED28+
+      (pins J46-2 J14-4)
+    )
+    (net /LED30+
+      (pins J48-2 J15-4)
+    )
+    (net "/LED30-"
+      (pins J48-1 J15-3)
+    )
+    (net /LED29+
+      (pins J47-2 J15-2)
+    )
+    (net "/LED29-"
+      (pins J47-1 J15-1)
+    )
+    (net "/LED31-"
+      (pins J49-1 J16-1)
+    )
+    (net /LED31+
+      (pins J49-2 J16-2)
+    )
+    (net "/LED32-"
+      (pins J50-1 J16-3)
+    )
+    (net /LED32+
+      (pins J50-2 J16-4)
+    )
+    (net /LED34+
+      (pins J52-2 J17-4)
+    )
+    (net "/LED34-"
+      (pins J52-1 J17-3)
+    )
+    (net /LED33+
+      (pins J51-2 J17-2)
+    )
+    (net "/LED33-"
+      (pins J51-1 J17-1)
+    )
+    (net /LED36+
+      (pins J54-2 J18-4)
+    )
+    (net "/LED36-"
+      (pins J54-1 J18-3)
+    )
+    (net /LED35+
+      (pins J53-2 J18-2)
+    )
+    (net "/LED35-"
+      (pins J53-1 J18-1)
+    )
+    (class kicad_default "" /LED1+ "/LED1-" /LED10+ "/LED10-" /LED11+ "/LED11-"
+      /LED12+ "/LED12-" /LED13+ "/LED13-" /LED14+ "/LED14-" /LED15+ "/LED15-"
+      /LED16+ "/LED16-" /LED17+ "/LED17-" /LED18+ "/LED18-" /LED19+ "/LED19-"
+      /LED2+ "/LED2-" /LED20+ "/LED20-" /LED21+ "/LED21-" /LED22+ "/LED22-"
+      /LED23+ "/LED23-" /LED24+ "/LED24-" /LED25+ "/LED25-" /LED26+ "/LED26-"
+      /LED27+ "/LED27-" /LED28+ "/LED28-" /LED29+ "/LED29-" /LED3+ "/LED3-"
+      /LED30+ "/LED30-" /LED31+ "/LED31-" /LED32+ "/LED32-" /LED33+ "/LED33-"
+      /LED34+ "/LED34-" /LED35+ "/LED35-" /LED36+ "/LED36-" /LED4+ "/LED4-"
+      /LED5+ "/LED5-" /LED6+ "/LED6-" /LED7+ "/LED7-" /LED8+ "/LED8-" /LED9+
+      "/LED9-"
+      (circuit
+        (use_via Via[0-1]_800:400_um)
+      )
+      (rule
+        (width 350)
+        (clearance 200.1)
+      )
+    )
+  )
+  (wiring
+  )
+)

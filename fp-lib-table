@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name BLOCK_CONN_2)(type KiCad)(uri ${KIPRJMOD}/BLOCK_CONN_2.pretty)(options "")(descr ""))
+  (lib (name MOLEX)(type KiCad)(uri ${KIPRJMOD}/MOLEX.pretty)(options "")(descr ""))
+  (lib (name mount_holes_custom)(type KiCad)(uri ${KIPRJMOD}/mount_holes_custom.pretty)(options "")(descr ""))
+)

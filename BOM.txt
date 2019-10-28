@@ -1,0 +1,5 @@
+part       description                              vendor            PN            QTY
+----------------------------------------------------------------------------------------
+J1-J18    Molex CONN HEADER VERT 4POS 2.54MM       Digikey         WM4802-ND        18
+J19-J54   TERM BLK 2POS SIDE ENT 3.5MM PCB         Digikey         ED2635-ND        36
+

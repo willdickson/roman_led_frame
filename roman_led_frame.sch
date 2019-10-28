@@ -1,0 +1,1221 @@
+EESchema Schematic File Version 4
+LIBS:power
+LIBS:device
+LIBS:switches
+LIBS:relays
+LIBS:motors
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:roman_led_frame-cache
+EELAYER 29 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	1200 800  1200 750 
+Wire Wire Line
+	1200 750  1300 750 
+Wire Wire Line
+	1250 900  1250 850 
+Wire Wire Line
+	1250 850  1300 850 
+Wire Wire Line
+	1250 1000 1250 1050
+Wire Wire Line
+	1250 1050 1300 1050
+Wire Wire Line
+	1200 1100 1200 1150
+Wire Wire Line
+	1200 1150 1300 1150
+Wire Wire Line
+	1200 1500 1200 1450
+Wire Wire Line
+	1200 1450 1300 1450
+Wire Wire Line
+	1250 1600 1250 1550
+Wire Wire Line
+	1250 1550 1300 1550
+Wire Wire Line
+	1250 1700 1250 1750
+Wire Wire Line
+	1250 1750 1300 1750
+Wire Wire Line
+	1200 1800 1200 1850
+Wire Wire Line
+	1200 1850 1300 1850
+Wire Wire Line
+	1200 2200 1200 2150
+Wire Wire Line
+	1200 2150 1300 2150
+Wire Wire Line
+	1250 2300 1250 2250
+Wire Wire Line
+	1250 2250 1300 2250
+Wire Wire Line
+	1250 2400 1250 2450
+Wire Wire Line
+	1250 2450 1300 2450
+Wire Wire Line
+	1200 2500 1200 2550
+Wire Wire Line
+	1200 2550 1300 2550
+Wire Wire Line
+	1200 2900 1200 2850
+Wire Wire Line
+	1250 3000 1250 2950
+Wire Wire Line
+	1250 2950 1300 2950
+Wire Wire Line
+	1250 3100 1250 3150
+Wire Wire Line
+	1250 3150 1300 3150
+Wire Wire Line
+	1200 3200 1200 3250
+Wire Wire Line
+	1200 3250 1300 3250
+Wire Wire Line
+	2450 800  2450 750 
+Wire Wire Line
+	2450 750  2550 750 
+Wire Wire Line
+	2500 900  2500 850 
+Wire Wire Line
+	2500 850  2550 850 
+Wire Wire Line
+	2500 1000 2500 1050
+Wire Wire Line
+	2500 1050 2550 1050
+Wire Wire Line
+	2450 1100 2450 1150
+Wire Wire Line
+	2450 1150 2550 1150
+Wire Wire Line
+	2450 1500 2450 1450
+Wire Wire Line
+	2450 1450 2550 1450
+Wire Wire Line
+	2500 1600 2500 1550
+Wire Wire Line
+	2500 1550 2550 1550
+Wire Wire Line
+	2500 1700 2500 1750
+Wire Wire Line
+	2500 1750 2550 1750
+Wire Wire Line
+	2450 1800 2450 1850
+Wire Wire Line
+	2450 1850 2550 1850
+Wire Wire Line
+	3725 2575 3825 2575
+Wire Wire Line
+	3725 2525 3725 2575
+Wire Wire Line
+	3775 2475 3825 2475
+Wire Wire Line
+	3775 2425 3775 2475
+Wire Wire Line
+	3775 2275 3825 2275
+Wire Wire Line
+	3775 2325 3775 2275
+Wire Wire Line
+	3725 2175 3825 2175
+Wire Wire Line
+	3725 2225 3725 2175
+Wire Wire Line
+	3725 1850 3825 1850
+Wire Wire Line
+	3725 1800 3725 1850
+Wire Wire Line
+	3775 1750 3825 1750
+Wire Wire Line
+	3775 1700 3775 1750
+Wire Wire Line
+	3775 1550 3825 1550
+Wire Wire Line
+	3775 1600 3775 1550
+Wire Wire Line
+	3725 1450 3825 1450
+Wire Wire Line
+	3725 1500 3725 1450
+Wire Wire Line
+	3725 1150 3825 1150
+Wire Wire Line
+	3725 1100 3725 1150
+Wire Wire Line
+	3775 1050 3825 1050
+Wire Wire Line
+	3775 1000 3775 1050
+Wire Wire Line
+	3775 850  3825 850 
+Wire Wire Line
+	3775 900  3775 850 
+Wire Wire Line
+	3725 750  3825 750 
+Wire Wire Line
+	3725 800  3725 750 
+Wire Wire Line
+	2450 3250 2550 3250
+Wire Wire Line
+	2450 3200 2450 3250
+Wire Wire Line
+	2500 3150 2550 3150
+Wire Wire Line
+	2500 3100 2500 3150
+Wire Wire Line
+	2500 2950 2550 2950
+Wire Wire Line
+	2500 3000 2500 2950
+Wire Wire Line
+	2450 2850 2550 2850
+Wire Wire Line
+	2450 2900 2450 2850
+Wire Wire Line
+	2450 2550 2550 2550
+Wire Wire Line
+	2450 2500 2450 2550
+Wire Wire Line
+	2500 2450 2550 2450
+Wire Wire Line
+	2500 2400 2500 2450
+Wire Wire Line
+	2500 2250 2550 2250
+Wire Wire Line
+	2500 2300 2500 2250
+Wire Wire Line
+	2450 2150 2550 2150
+Wire Wire Line
+	2450 2200 2450 2150
+Wire Wire Line
+	4925 825  4925 775 
+Wire Wire Line
+	4925 775  5025 775 
+Wire Wire Line
+	4975 925  4975 875 
+Wire Wire Line
+	4975 875  5025 875 
+Wire Wire Line
+	4975 1025 4975 1075
+Wire Wire Line
+	4975 1075 5025 1075
+Wire Wire Line
+	4925 1125 4925 1175
+Wire Wire Line
+	4925 1175 5025 1175
+Wire Wire Line
+	4925 1525 4925 1475
+Wire Wire Line
+	4925 1475 5025 1475
+Wire Wire Line
+	4975 1625 4975 1575
+Wire Wire Line
+	4975 1575 5025 1575
+Wire Wire Line
+	4975 1725 4975 1775
+Wire Wire Line
+	4975 1775 5025 1775
+Wire Wire Line
+	4925 1825 4925 1875
+Wire Wire Line
+	4925 1875 5025 1875
+Wire Wire Line
+	4925 2225 4925 2175
+Wire Wire Line
+	4925 2175 5025 2175
+Wire Wire Line
+	4975 2325 4975 2275
+Wire Wire Line
+	4975 2275 5025 2275
+Wire Wire Line
+	4975 2425 4975 2475
+Wire Wire Line
+	4975 2475 5025 2475
+Wire Wire Line
+	4925 2525 4925 2575
+Wire Wire Line
+	4925 2575 5025 2575
+Wire Wire Line
+	4925 2925 4925 2875
+Wire Wire Line
+	4925 2875 5025 2875
+Wire Wire Line
+	4975 3025 4975 2975
+Wire Wire Line
+	4975 2975 5025 2975
+Wire Wire Line
+	4975 3125 4975 3175
+Wire Wire Line
+	4975 3175 5025 3175
+Wire Wire Line
+	4925 3225 4925 3275
+Wire Wire Line
+	4925 3275 5025 3275
+$Comp
+L conn:Conn_01x04 J17
+U 1 1 5DB672D9
+P 5725 925
+F 0 "J17" H 5725 1150 50  0000 C CNN
+F 1 "Conn_01x04" H 5643 591 50  0001 C CNN
+F 2 "MOLEX:0705430003" H 5725 925 50  0001 C CNN
+F 3 "~" H 5725 925 50  0001 C CNN
+	1    5725 925 
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	6125 825  6125 775 
+Wire Wire Line
+	6125 775  6225 775 
+Wire Wire Line
+	6175 925  6175 875 
+Wire Wire Line
+	6175 875  6225 875 
+Wire Wire Line
+	6175 1025 6175 1075
+Wire Wire Line
+	6175 1075 6225 1075
+Wire Wire Line
+	6125 1125 6125 1175
+Wire Wire Line
+	6125 1175 6225 1175
+Wire Wire Line
+	3725 2925 3725 2875
+Wire Wire Line
+	3725 2875 3825 2875
+Wire Wire Line
+	3775 3025 3775 2975
+Wire Wire Line
+	3775 2975 3825 2975
+Wire Wire Line
+	3775 3125 3775 3175
+Wire Wire Line
+	3775 3175 3825 3175
+Wire Wire Line
+	3725 3225 3725 3275
+Wire Wire Line
+	3725 3275 3825 3275
+$Comp
+L conn:Conn_01x04 J18
+U 1 1 5DC0681F
+P 5725 1625
+F 0 "J18" H 5725 1825 50  0000 C CNN
+F 1 "Conn_01x04" H 5643 1291 50  0001 C CNN
+F 2 "MOLEX:0705430003" H 5725 1625 50  0001 C CNN
+F 3 "~" H 5725 1625 50  0001 C CNN
+	1    5725 1625
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	6125 1525 6125 1475
+Wire Wire Line
+	6125 1475 6225 1475
+Wire Wire Line
+	6175 1625 6175 1575
+Wire Wire Line
+	6175 1575 6225 1575
+Wire Wire Line
+	6175 1725 6175 1775
+Wire Wire Line
+	6175 1775 6225 1775
+Wire Wire Line
+	6125 1825 6125 1875
+Wire Wire Line
+	6125 1875 6225 1875
+$Comp
+L conn:Conn_01x04 J12
+U 1 1 5DC067F5
+P 3325 3025
+F 0 "J12" H 3325 3250 50  0000 C CNN
+F 1 "Conn_01x04" H 3243 2691 50  0001 C CNN
+F 2 "MOLEX:0705430003" H 3325 3025 50  0001 C CNN
+F 3 "~" H 3325 3025 50  0001 C CNN
+	1    3325 3025
+	-1   0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_01x04 J16
+U 1 1 5DB67206
+P 4525 3025
+F 0 "J16" H 4443 3250 50  0000 C CNN
+F 1 "Conn_01x04" H 4443 2691 50  0001 C CNN
+F 2 "MOLEX:0705430003" H 4525 3025 50  0001 C CNN
+F 3 "~" H 4525 3025 50  0001 C CNN
+	1    4525 3025
+	-1   0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_01x04 J15
+U 1 1 5DB671DC
+P 4525 2325
+F 0 "J15" H 4525 2525 50  0000 C CNN
+F 1 "Conn_01x04" H 4443 1991 50  0001 C CNN
+F 2 "MOLEX:0705430003" H 4525 2325 50  0001 C CNN
+F 3 "~" H 4525 2325 50  0001 C CNN
+	1    4525 2325
+	-1   0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_01x04 J14
+U 1 1 5DB671B2
+P 4525 1625
+F 0 "J14" H 4525 1825 50  0000 C CNN
+F 1 "Conn_01x04" H 4443 1291 50  0001 C CNN
+F 2 "MOLEX:0705430003" H 4525 1625 50  0001 C CNN
+F 3 "~" H 4525 1625 50  0001 C CNN
+	1    4525 1625
+	-1   0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_01x04 J13
+U 1 1 5DB67188
+P 4525 1025
+F 0 "J13" H 4525 725 50  0000 C CNN
+F 1 "Conn_01x04" H 4443 691 50  0001 C CNN
+F 2 "MOLEX:0705430003" H 4525 1025 50  0001 C CNN
+F 3 "~" H 4525 1025 50  0001 C CNN
+	1    4525 1025
+	-1   0    0    1   
+$EndComp
+$Comp
+L conn:Conn_01x04 J9
+U 1 1 5DB439E8
+P 3325 900
+F 0 "J9" H 3325 1100 50  0000 C CNN
+F 1 "Conn_01x04" H 3243 566 50  0001 C CNN
+F 2 "MOLEX:0705430003" H 3325 900 50  0001 C CNN
+F 3 "~" H 3325 900 50  0001 C CNN
+	1    3325 900 
+	-1   0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_01x04 J10
+U 1 1 5DB43A12
+P 3325 1600
+F 0 "J10" H 3325 1800 50  0000 C CNN
+F 1 "Conn_01x04" H 3243 1266 50  0001 C CNN
+F 2 "MOLEX:0705430003" H 3325 1600 50  0001 C CNN
+F 3 "~" H 3325 1600 50  0001 C CNN
+	1    3325 1600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_01x04 J11
+U 1 1 5DB5FF58
+P 3325 2325
+F 0 "J11" H 3325 2550 50  0000 C CNN
+F 1 "Conn_01x04" H 3243 1991 50  0001 C CNN
+F 2 "MOLEX:0705430003" H 3325 2325 50  0001 C CNN
+F 3 "~" H 3325 2325 50  0001 C CNN
+	1    3325 2325
+	-1   0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_01x04 J7
+U 1 1 5DB43994
+P 2050 2300
+F 0 "J7" H 2050 2500 50  0000 C CNN
+F 1 "Conn_01x04" H 1968 1966 50  0001 C CNN
+F 2 "MOLEX:0705430003" H 2050 2300 50  0001 C CNN
+F 3 "~" H 2050 2300 50  0001 C CNN
+	1    2050 2300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_01x04 J8
+U 1 1 5DB439BE
+P 2050 3000
+F 0 "J8" H 2050 3200 50  0000 C CNN
+F 1 "Conn_01x04" H 1968 2666 50  0001 C CNN
+F 2 "MOLEX:0705430003" H 2050 3000 50  0001 C CNN
+F 3 "~" H 2050 3000 50  0001 C CNN
+	1    2050 3000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_01x04 J6
+U 1 1 5DC067CB
+P 2050 1600
+F 0 "J6" H 2050 1800 50  0000 C CNN
+F 1 "Conn_01x04" H 1968 1266 50  0001 C CNN
+F 2 "MOLEX:0705430003" H 2050 1600 50  0001 C CNN
+F 3 "~" H 2050 1600 50  0001 C CNN
+	1    2050 1600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_01x04 J5
+U 1 1 5DB5FF2E
+P 2050 900
+F 0 "J5" H 2050 1100 50  0000 C CNN
+F 1 "Conn_01x04" H 1968 566 50  0001 C CNN
+F 2 "MOLEX:0705430003" H 2050 900 50  0001 C CNN
+F 3 "~" H 2050 900 50  0001 C CNN
+	1    2050 900 
+	-1   0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_01x04 J4
+U 1 1 5DB3DAAE
+P 800 3000
+F 0 "J4" H 800 3200 50  0000 C CNN
+F 1 "Conn_01x04" H 718 2666 50  0001 C CNN
+F 2 "MOLEX:0705430003" H 800 3000 50  0001 C CNN
+F 3 "~" H 800 3000 50  0001 C CNN
+	1    800  3000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_01x04 J3
+U 1 1 5DB3DA84
+P 800 2300
+F 0 "J3" H 800 2500 50  0000 C CNN
+F 1 "Conn_01x04" H 718 1966 50  0001 C CNN
+F 2 "MOLEX:0705430003" H 800 2300 50  0001 C CNN
+F 3 "~" H 800 2300 50  0001 C CNN
+	1    800  2300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_01x04 J2
+U 1 1 5DB3B139
+P 800 1600
+F 0 "J2" H 800 1800 50  0000 C CNN
+F 1 "Conn_01x04" H 718 1266 50  0001 C CNN
+F 2 "MOLEX:0705430003" H 800 1600 50  0001 C CNN
+F 3 "~" H 800 1600 50  0001 C CNN
+	1    800  1600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_01x04 J1
+U 1 1 5DB371F0
+P 800 900
+F 0 "J1" H 800 1100 50  0000 C CNN
+F 1 "Conn_01x04" H 718 566 50  0001 C CNN
+F 2 "MOLEX:0705430003" H 800 900 50  0001 C CNN
+F 3 "~" H 800 900 50  0001 C CNN
+	1    800  900 
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	1000 800  1200 800 
+Wire Wire Line
+	1000 900  1250 900 
+Wire Wire Line
+	1000 1000 1250 1000
+Wire Wire Line
+	1000 1100 1200 1100
+Text Label 1025 900  0    25   ~ 0
+LED1+
+Text Label 1025 1000 0    25   ~ 0
+LED2-
+Text Label 1025 1100 0    25   ~ 0
+LED2+
+Text Label 1025 800  0    25   ~ 0
+LED1-
+Wire Wire Line
+	1000 1500 1200 1500
+Wire Wire Line
+	1000 1600 1250 1600
+Wire Wire Line
+	1000 1700 1250 1700
+Wire Wire Line
+	1000 1800 1200 1800
+Wire Wire Line
+	1000 2200 1200 2200
+Wire Wire Line
+	1000 2300 1250 2300
+Wire Wire Line
+	1000 2400 1250 2400
+Wire Wire Line
+	1000 2500 1200 2500
+Wire Wire Line
+	1000 2900 1200 2900
+Wire Wire Line
+	1000 3000 1250 3000
+Wire Wire Line
+	1000 3100 1250 3100
+Wire Wire Line
+	1000 3200 1200 3200
+Wire Wire Line
+	2250 800  2450 800 
+Wire Wire Line
+	2250 900  2500 900 
+Wire Wire Line
+	2250 1000 2500 1000
+Wire Wire Line
+	2250 1100 2450 1100
+Wire Wire Line
+	2250 1500 2450 1500
+Wire Wire Line
+	2250 1600 2500 1600
+Wire Wire Line
+	2250 1700 2500 1700
+Wire Wire Line
+	2250 1800 2450 1800
+Wire Wire Line
+	2250 2200 2450 2200
+Wire Wire Line
+	2250 2300 2500 2300
+Wire Wire Line
+	2250 2400 2500 2400
+Wire Wire Line
+	2250 2500 2450 2500
+Wire Wire Line
+	2250 2900 2450 2900
+Wire Wire Line
+	2250 3000 2500 3000
+Wire Wire Line
+	2250 3100 2500 3100
+Wire Wire Line
+	2250 3200 2450 3200
+Wire Wire Line
+	3525 800  3725 800 
+Wire Wire Line
+	3525 900  3775 900 
+Wire Wire Line
+	3525 1000 3775 1000
+Wire Wire Line
+	3525 1100 3725 1100
+Wire Wire Line
+	3525 1500 3725 1500
+Wire Wire Line
+	3525 1600 3775 1600
+Wire Wire Line
+	3525 1700 3775 1700
+Wire Wire Line
+	3525 1800 3725 1800
+Wire Wire Line
+	3525 2225 3725 2225
+Wire Wire Line
+	3525 2325 3775 2325
+Wire Wire Line
+	3525 2425 3775 2425
+Wire Wire Line
+	3525 2525 3725 2525
+Wire Wire Line
+	3525 2925 3725 2925
+Wire Wire Line
+	3525 3025 3775 3025
+Wire Wire Line
+	3525 3125 3775 3125
+Wire Wire Line
+	3525 3225 3725 3225
+Wire Wire Line
+	4725 825  4925 825 
+Wire Wire Line
+	4725 925  4975 925 
+Wire Wire Line
+	4725 1025 4975 1025
+Wire Wire Line
+	4725 1125 4925 1125
+Wire Wire Line
+	4725 1525 4925 1525
+Wire Wire Line
+	4725 1625 4975 1625
+Wire Wire Line
+	4725 1725 4975 1725
+Wire Wire Line
+	4725 1825 4925 1825
+Wire Wire Line
+	4725 2225 4925 2225
+Wire Wire Line
+	4725 2325 4975 2325
+Wire Wire Line
+	4725 2425 4975 2425
+Wire Wire Line
+	4725 2525 4925 2525
+Wire Wire Line
+	4725 2925 4925 2925
+Wire Wire Line
+	4725 3025 4975 3025
+Wire Wire Line
+	4725 3125 4975 3125
+Wire Wire Line
+	4725 3225 4925 3225
+Wire Wire Line
+	5925 825  6125 825 
+Wire Wire Line
+	5925 925  6175 925 
+Wire Wire Line
+	5925 1025 6175 1025
+Wire Wire Line
+	5925 1125 6125 1125
+Wire Wire Line
+	5925 1525 6125 1525
+Wire Wire Line
+	5925 1625 6175 1625
+Wire Wire Line
+	5925 1725 6175 1725
+Wire Wire Line
+	5925 1825 6125 1825
+Text Label 1025 1500 0    25   ~ 0
+LED3-
+Text Label 1025 1600 0    25   ~ 0
+LED3+
+Text Label 1025 1800 0    25   ~ 0
+LED4+
+Text Label 1025 1700 0    25   ~ 0
+LED4-
+Text Label 1025 2200 0    25   ~ 0
+LED5-
+Text Label 1025 2300 0    25   ~ 0
+LED5+
+Text Label 1025 2400 0    25   ~ 0
+LED6-
+Text Label 1025 2500 0    25   ~ 0
+LED6+
+Text Label 1025 2900 0    25   ~ 0
+LED7-
+Text Label 1025 3000 0    25   ~ 0
+LED7+
+Text Label 1025 3100 0    25   ~ 0
+LED8-
+Text Label 1025 3200 0    25   ~ 0
+LED8+
+Text Label 2275 800  0    25   ~ 0
+LED9-
+Text Label 2275 900  0    25   ~ 0
+LED9+
+Text Label 2275 1000 0    25   ~ 0
+LED10-
+Text Label 2275 1100 0    25   ~ 0
+LED10+
+Text Label 2275 1500 0    25   ~ 0
+LED11-
+Text Label 2275 1600 0    25   ~ 0
+LED11+
+Text Label 2275 1700 0    25   ~ 0
+LED12-
+Text Label 2275 1800 0    25   ~ 0
+LED12+
+Text Label 2275 2200 0    25   ~ 0
+LED13-
+Text Label 2275 2300 0    25   ~ 0
+LED13+
+Text Label 2275 2400 0    25   ~ 0
+LED14-
+Text Label 2275 2500 0    25   ~ 0
+LED14+
+Text Label 2275 2900 0    25   ~ 0
+LED15-
+Text Label 2275 3000 0    25   ~ 0
+LED15+
+Text Label 2275 3100 0    25   ~ 0
+LED16-
+Text Label 2275 3200 0    25   ~ 0
+LED16+
+Text Label 3550 800  0    25   ~ 0
+LED17-
+Text Label 3550 900  0    25   ~ 0
+LED17+
+Text Label 3550 1000 0    25   ~ 0
+LED18-
+Text Label 3550 1100 0    25   ~ 0
+LED18+
+Text Label 3550 1500 0    25   ~ 0
+LED19-
+Text Label 3550 1600 0    25   ~ 0
+LED19+
+Text Label 3550 1700 0    25   ~ 0
+LED20-
+Text Label 3550 1800 0    25   ~ 0
+LED20+
+Text Label 3550 2225 0    25   ~ 0
+LED21-
+Text Label 3550 2325 0    25   ~ 0
+LED21+
+Text Label 3550 2425 0    25   ~ 0
+LED22-
+Text Label 3550 2525 0    25   ~ 0
+LED22+
+Text Label 3550 2925 0    25   ~ 0
+LED23-
+Text Label 3550 3025 0    25   ~ 0
+LED23+
+Text Label 3550 3125 0    25   ~ 0
+LED24-
+Text Label 3550 3225 0    25   ~ 0
+LED24+
+Text Label 4750 825  0    25   ~ 0
+LED25-
+Text Label 4750 925  0    25   ~ 0
+LED25+
+Text Label 4750 1125 0    25   ~ 0
+LED26+
+Text Label 4750 1025 0    25   ~ 0
+LED26-
+Text Label 4750 1525 0    25   ~ 0
+LED27-
+Text Label 4750 1625 0    25   ~ 0
+LED27+
+Text Label 4750 1725 0    25   ~ 0
+LED28-
+Text Label 4750 1825 0    25   ~ 0
+LED28+
+Text Label 4750 2225 0    25   ~ 0
+LED29-
+Text Label 4750 2325 0    25   ~ 0
+LED29+
+Text Label 4750 2425 0    25   ~ 0
+LED30-
+Text Label 4750 2525 0    25   ~ 0
+LED30+
+Text Label 4750 2925 0    25   ~ 0
+LED31-
+Text Label 4750 3025 0    25   ~ 0
+LED31+
+Text Label 4750 3125 0    25   ~ 0
+LED32-
+Text Label 4750 3225 0    25   ~ 0
+LED32+
+Text Label 5950 825  0    25   ~ 0
+LED33-
+Text Label 5950 925  0    25   ~ 0
+LED33+
+Text Label 5950 1025 0    25   ~ 0
+LED34-
+Text Label 5950 1125 0    25   ~ 0
+LED34+
+Text Label 5950 1525 0    25   ~ 0
+LED35-
+Text Label 5950 1625 0    25   ~ 0
+LED35+
+Text Label 5950 1725 0    25   ~ 0
+LED36-
+Text Label 5950 1825 0    25   ~ 0
+LED36+
+Text Notes 1000 3875 0    75   ~ 0
+4-Pin header:  Molex PN 0705430003,  Digikey  WM4802-ND
+Wire Wire Line
+	1200 2850 1300 2850
+$Comp
+L conn:Screw_Terminal_01x02 J54
+U 1 1 5DBE883C
+P 6425 1775
+F 0 "J54" H 6505 1721 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 6505 1676 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 6425 1775 50  0001 C CNN
+F 3 "~" H 6425 1775 50  0001 C CNN
+	1    6425 1775
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J53
+U 1 1 5DBE7AC6
+P 6425 1475
+F 0 "J53" H 6505 1421 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 6505 1376 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 6425 1475 50  0001 C CNN
+F 3 "~" H 6425 1475 50  0001 C CNN
+	1    6425 1475
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J52
+U 1 1 5DBE6D9A
+P 6425 1075
+F 0 "J52" H 6505 1021 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 6505 976 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 6425 1075 50  0001 C CNN
+F 3 "~" H 6425 1075 50  0001 C CNN
+	1    6425 1075
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J51
+U 1 1 5DBE5FD4
+P 6425 775
+F 0 "J51" H 6505 721 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 6505 676 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 6425 775 50  0001 C CNN
+F 3 "~" H 6425 775 50  0001 C CNN
+	1    6425 775 
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J50
+U 1 1 5DBDFE79
+P 5225 3175
+F 0 "J50" H 5305 3121 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 5305 3076 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 5225 3175 50  0001 C CNN
+F 3 "~" H 5225 3175 50  0001 C CNN
+	1    5225 3175
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J49
+U 1 1 5DBE0E35
+P 5225 2875
+F 0 "J49" H 5305 2821 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 5305 2776 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 5225 2875 50  0001 C CNN
+F 3 "~" H 5225 2875 50  0001 C CNN
+	1    5225 2875
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J48
+U 1 1 5DBE1879
+P 5225 2475
+F 0 "J48" H 5305 2421 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 5305 2376 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 5225 2475 50  0001 C CNN
+F 3 "~" H 5225 2475 50  0001 C CNN
+	1    5225 2475
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J47
+U 1 1 5DBE1E6A
+P 5225 2175
+F 0 "J47" H 5305 2121 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 5305 2076 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 5225 2175 50  0001 C CNN
+F 3 "~" H 5225 2175 50  0001 C CNN
+	1    5225 2175
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J46
+U 1 1 5DBE2DE1
+P 5225 1775
+F 0 "J46" H 5305 1721 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 5305 1676 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 5225 1775 50  0001 C CNN
+F 3 "~" H 5225 1775 50  0001 C CNN
+	1    5225 1775
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J45
+U 1 1 5DBE3715
+P 5225 1475
+F 0 "J45" H 5305 1421 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 5305 1376 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 5225 1475 50  0001 C CNN
+F 3 "~" H 5225 1475 50  0001 C CNN
+	1    5225 1475
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J44
+U 1 1 5DBE459B
+P 5225 1075
+F 0 "J44" H 5305 1021 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 5305 976 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 5225 1075 50  0001 C CNN
+F 3 "~" H 5225 1075 50  0001 C CNN
+	1    5225 1075
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J43
+U 1 1 5DBE4ADC
+P 5225 775
+F 0 "J43" H 5305 721 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 5305 676 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 5225 775 50  0001 C CNN
+F 3 "~" H 5225 775 50  0001 C CNN
+	1    5225 775 
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J42
+U 1 1 5DBDF6DC
+P 4025 3175
+F 0 "J42" H 4105 3121 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 4105 3076 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 4025 3175 50  0001 C CNN
+F 3 "~" H 4025 3175 50  0001 C CNN
+	1    4025 3175
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J41
+U 1 1 5DBDE834
+P 4025 2875
+F 0 "J41" H 4105 2821 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 4105 2776 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 4025 2875 50  0001 C CNN
+F 3 "~" H 4025 2875 50  0001 C CNN
+	1    4025 2875
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J40
+U 1 1 5DBDDBCF
+P 4025 2475
+F 0 "J40" H 4105 2421 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 4105 2376 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 4025 2475 50  0001 C CNN
+F 3 "~" H 4025 2475 50  0001 C CNN
+	1    4025 2475
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J39
+U 1 1 5DBDD147
+P 4025 2175
+F 0 "J39" H 4105 2121 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 4105 2076 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 4025 2175 50  0001 C CNN
+F 3 "~" H 4025 2175 50  0001 C CNN
+	1    4025 2175
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J38
+U 1 1 5DBDCC76
+P 4025 1750
+F 0 "J38" H 4105 1696 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 4105 1651 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 4025 1750 50  0001 C CNN
+F 3 "~" H 4025 1750 50  0001 C CNN
+	1    4025 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J37
+U 1 1 5DBDBEC1
+P 4025 1450
+F 0 "J37" H 4105 1396 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 4105 1351 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 4025 1450 50  0001 C CNN
+F 3 "~" H 4025 1450 50  0001 C CNN
+	1    4025 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J36
+U 1 1 5DBDB3A4
+P 4025 1050
+F 0 "J36" H 4105 996 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 4105 951 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 4025 1050 50  0001 C CNN
+F 3 "~" H 4025 1050 50  0001 C CNN
+	1    4025 1050
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J35
+U 1 1 5DBD9976
+P 4025 750
+F 0 "J35" H 4105 696 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 4105 651 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 4025 750 50  0001 C CNN
+F 3 "~" H 4025 750 50  0001 C CNN
+	1    4025 750 
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J34
+U 1 1 5DBD5684
+P 2750 3150
+F 0 "J34" H 2830 3096 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 2830 3051 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 2750 3150 50  0001 C CNN
+F 3 "~" H 2750 3150 50  0001 C CNN
+	1    2750 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J33
+U 1 1 5DBD5D40
+P 2750 2850
+F 0 "J33" H 2830 2796 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 2830 2751 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 2750 2850 50  0001 C CNN
+F 3 "~" H 2750 2850 50  0001 C CNN
+	1    2750 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J32
+U 1 1 5DBD67D0
+P 2750 2450
+F 0 "J32" H 2830 2396 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 2830 2351 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 2750 2450 50  0001 C CNN
+F 3 "~" H 2750 2450 50  0001 C CNN
+	1    2750 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J31
+U 1 1 5DBD6CCD
+P 2750 2150
+F 0 "J31" H 2830 2096 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 2830 2051 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 2750 2150 50  0001 C CNN
+F 3 "~" H 2750 2150 50  0001 C CNN
+	1    2750 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J30
+U 1 1 5DBD77F8
+P 2750 1750
+F 0 "J30" H 2830 1696 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 2830 1651 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 2750 1750 50  0001 C CNN
+F 3 "~" H 2750 1750 50  0001 C CNN
+	1    2750 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J29
+U 1 1 5DBD80F4
+P 2750 1450
+F 0 "J29" H 2830 1396 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 2830 1351 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 2750 1450 50  0001 C CNN
+F 3 "~" H 2750 1450 50  0001 C CNN
+	1    2750 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J28
+U 1 1 5DBD88F3
+P 2750 1050
+F 0 "J28" H 2830 996 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 2830 951 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 2750 1050 50  0001 C CNN
+F 3 "~" H 2750 1050 50  0001 C CNN
+	1    2750 1050
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J27
+U 1 1 5DBD8EA6
+P 2750 750
+F 0 "J27" H 2830 696 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 2830 651 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 2750 750 50  0001 C CNN
+F 3 "~" H 2750 750 50  0001 C CNN
+	1    2750 750 
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J26
+U 1 1 5DBD4A91
+P 1500 3150
+F 0 "J26" H 1580 3096 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 1580 3051 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 1500 3150 50  0001 C CNN
+F 3 "~" H 1500 3150 50  0001 C CNN
+	1    1500 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J25
+U 1 1 5DBD42D0
+P 1500 2850
+F 0 "J25" H 1580 2796 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 1580 2751 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 1500 2850 50  0001 C CNN
+F 3 "~" H 1500 2850 50  0001 C CNN
+	1    1500 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J24
+U 1 1 5DBD2309
+P 1500 2450
+F 0 "J24" H 1580 2396 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 1580 2351 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 1500 2450 50  0001 C CNN
+F 3 "~" H 1500 2450 50  0001 C CNN
+	1    1500 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J23
+U 1 1 5DBD194C
+P 1500 2150
+F 0 "J23" H 1580 2096 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 1580 2051 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 1500 2150 50  0001 C CNN
+F 3 "~" H 1500 2150 50  0001 C CNN
+	1    1500 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J22
+U 1 1 5DBD12DC
+P 1500 1750
+F 0 "J22" H 1580 1696 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 1580 1651 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 1500 1750 50  0001 C CNN
+F 3 "~" H 1500 1750 50  0001 C CNN
+	1    1500 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J21
+U 1 1 5DBD0C0B
+P 1500 1450
+F 0 "J21" H 1580 1396 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 1580 1351 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 1500 1450 50  0001 C CNN
+F 3 "~" H 1500 1450 50  0001 C CNN
+	1    1500 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J20
+U 1 1 5DBD037A
+P 1500 1050
+F 0 "J20" H 1580 996 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 1580 951 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 1500 1050 50  0001 C CNN
+F 3 "~" H 1500 1050 50  0001 C CNN
+	1    1500 1050
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Screw_Terminal_01x02 J19
+U 1 1 5DBCF9E7
+P 1500 750
+F 0 "J19" H 1580 696 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 1580 651 50  0001 L CNN
+F 2 "BLOCK_CONN_2:BLOCK_CONN_2X1" H 1500 750 50  0001 C CNN
+F 3 "~" H 1500 750 50  0001 C CNN
+	1    1500 750 
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
